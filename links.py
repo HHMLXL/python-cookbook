@@ -1,2 +1,4 @@
 def love():
-    pass
+    def lo():
+        pass
+    return lo
